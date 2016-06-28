@@ -1,0 +1,1 @@
+# maniacs-futsal-trophy-switzerland
