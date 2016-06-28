@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Maniacs Futsal Trophy Switzerland]]></title>
+        <description><![CDATA[Maniacs Futsal Trophy Switzerland]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jun 2016 16:41:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b65324de-743d-4983-af5f-a7c8d5a1b0fc.jpg">]]></description>
+            <link>undefined148dad2b-46af-4c8e-ae71-fa91d34a36af/index.html</link>
+            <guid isPermaLink="false">148dad2b-46af-4c8e-ae71-fa91d34a36af</guid>
+            <pubDate>Tue, 28 Jun 2016 16:40:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
