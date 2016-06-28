@@ -1,7 +1,7 @@
 name: Maniacs Futsal Trophy Switzerland
 favicon: null
-layout_spectrum: 0.4400981196667999
-typography_spectrum: 0.10590222827158868
+layout_spectrum: 0.38351
+typography_spectrum: 0.06135
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.4258953151293099
+    - '#ffffff'
+    - '#000000'
+    - '#303030'
+    - '#8d8d8d'
+    - '#ed1c24'
+  brandStrength: 0.5
   lightness: 0.7908824079204351
-  saturation: 0.6528454076033086
+  saturation: 0.25
   rhythmicContrast: 0.7791043997276574
 purpose: []
